@@ -1,0 +1,30 @@
+_repo: Negro-Poets-and-Their-Poems_60003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kerlin, Robert Thomas
+    alias: Kerlin, Robert T.
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '43780'
+    url: http://www.gutenberg.org/2009/agents/43780
+description: ''
+gutenberg_issued: '2019-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60003'
+  lccn: '24001295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Intellectual life'
+- !lcc 'PS'
+- !lcsh 'American poetry -- African American authors'
+- !lcsh 'African American poets -- Biography'
+- !lcsh 'African Americans -- Poetry'
+- !lcsh 'American poetry -- African American authors -- History and criticism'
+- GITenberg
+title: Negro Poets and Their Poems
+url: http://www.gutenberg.org/ebooks/60003

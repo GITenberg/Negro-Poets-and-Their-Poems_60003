@@ -1,5 +1,8 @@
 _repo: Negro-Poets-and-Their-Poems_60003
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60003-h/images/cover.jpg
 creator:
   author:
     agent_name: Kerlin, Robert Thomas
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '43780'
     url: http://www.gutenberg.org/2009/agents/43780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60003#Negro-Poets-and-Their-Poems
 gutenberg_issued: '2019-07-28'
 gutenberg_type: Text
 identifiers:
